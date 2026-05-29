@@ -52,9 +52,7 @@ public class GaneshKumar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganeshkumar-builds-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=1a73e8&icon_color=1a73e8&text_color=ffffff&bg_color=0d1117" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar-builds-ai&layout=compact&theme=tokyonight&hide_border=true&title_color=1a73e8&text_color=ffffff&cache_seconds=1800" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshkumar-builds-ai&theme=tokyonight&hide_border=true&stroke=1a73e8&ring=1a73e8&fire=ff6b35&currStreakLabel=1a73e8&cache_seconds=1800" width="500"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshkumar-builds-ai&theme=tokyo-night&hide_border=true&color=1a73e8&line=1a73e8&point=ffffff&area=true" width="100%"/>
 
 </div>
 
