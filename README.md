@@ -27,7 +27,6 @@ public class GaneshKumar {
 
     String name        = "Ganesh Kumar";
     String college     = "Haldia Institute of Technology";
-    String batch       = "Apna College Sigma 12";
     String goal        = "Software Engineer @ FAANG";
     String[] learning  = {"HTML", "CSS", "JavaScript", "React", "Node.js", "DSA"};
     String dsaLang     = "Java";
